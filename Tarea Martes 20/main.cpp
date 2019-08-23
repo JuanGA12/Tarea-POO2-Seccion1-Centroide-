@@ -12,7 +12,7 @@ int main() {
     int verdad1,verdad2,verdad3;
 
     cout << endl;
-    cout << "Bienvenido, por favor seleccione las medidas y las componentes de las siguientes figuras"<< endl;
+    cout << "Bienvenido al programa, por favor seleccione las medidas y las componentes de las siguientes figuras"<< endl;
 
     cout << "Triangulo"<<endl;
     cout << "Base: "<<endl;
