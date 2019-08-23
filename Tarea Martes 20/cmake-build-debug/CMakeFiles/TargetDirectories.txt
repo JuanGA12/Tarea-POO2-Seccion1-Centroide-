@@ -1,0 +1,3 @@
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/cmake-build-debug/CMakeFiles/Tarea_Martes_20.dir

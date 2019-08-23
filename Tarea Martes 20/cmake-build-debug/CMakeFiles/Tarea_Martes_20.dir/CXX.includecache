@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Circulo.h
+Figura.h
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Figura.h
+
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Figura.h
+
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Rectangulo.h
+Triangulo.h
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Triangulo.h
+
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Triangulo.h
+Figura.h
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Figura.h
+
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/main.cpp
+iostream
+-
+Triangulo.h
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Triangulo.h
+Rectangulo.h
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Rectangulo.h
+Circulo.h
+/Users/Juan Galvez/Desktop/4to Ciclo/POO II/Tarea Martes 20/Circulo.h
+
